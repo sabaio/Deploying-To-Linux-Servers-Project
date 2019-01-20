@@ -1,5 +1,4 @@
-# Deploying-To-Linux-Servers-Project
-#This is the final project for Udacity's Full Stack Web Developer Nanodegree.
+<#This is the final project for Udacity's Full Stack Web Developer Nanodegree.>
 
 ###This page contains the Item-Catalog-Project built earlier in project 2 in the course.
 
